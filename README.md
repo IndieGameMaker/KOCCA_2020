@@ -40,6 +40,10 @@
 
 ---
 
+### 팀별 이펙트&사운드 멘토링 의견발표
+
+- [발표문서 업로드](https://drive.google.com/drive/folders/1xpOo-g3zZF3YvzOSPdcLNNCFvI5WQmLq?usp=sharing)
+
 ### 프로젝트 발표 문서 작성
 
 - [발표문서 공식 탬플릿](https://#) (:point_right: 공식 탬플릿이 확정되면 링크할 예정)
