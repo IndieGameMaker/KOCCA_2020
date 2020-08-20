@@ -40,7 +40,7 @@
 
 ---
 
-### 팀별 이펙트&사운드 멘토링 의견발표
+### 팀별 이펙트&사운드 멘토링 의견발표 (2020-08-20)
 
 - [발표문서 업로드](https://drive.google.com/drive/folders/1xpOo-g3zZF3YvzOSPdcLNNCFvI5WQmLq?usp=sharing)
 
