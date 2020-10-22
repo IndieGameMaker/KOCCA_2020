@@ -46,11 +46,9 @@
 
 ### 프로젝트 발표 문서 작성
 
-- --[발표문서 공식 탬플릿](https://#) (:point_right: 공식 탬플릿이 확정되면 링크할 예정)--
+- 발표문서는 10월 23일 오전 12:00 까지 아래 구글 드라이브에 업로드.(1차 업로드)
 
-- 발표문서는 10월 22일 오전 12:00 까지 아래 구글 드라이브에 업로드.(1차 업로드)
-
-- [발표문서 업로드](https://drive.google.com/drive/folders/1iD2UVZFxkTAyKZa32vN2gM6dVYFyy3XV?usp=sharing) (:point_right: 공식 탬플릿이 확정되면 업로드 링크 공개할 예정)
+- [최종 프로젝트 발표문서 업로드](https://drive.google.com/drive/folders/1iD2UVZFxkTAyKZa32vN2gM6dVYFyy3XV?usp=sharing) (:point_right: 공식 탬플릿이 확정되면 업로드 링크 공개할 예정)
 
 #### 1. 발표문서에 담겨야 할 내용
 
